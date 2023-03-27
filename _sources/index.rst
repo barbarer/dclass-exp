@@ -25,7 +25,7 @@ If you have questions about this assignment please email Dr. Susan Rodger at rod
 
 The parts are:
 
-- Introduction to Problem Types - Materials to get you familiar with the types of problems in this study
+- Introduction to Problem Types - Materials to get you familiar with the types of problems in this assignment
 - Creating Classes - Learn how to create a class, methods, and objects
 - Pre Survey - Questions about your experience and confidence in computing
 - Practice - Practice problems
